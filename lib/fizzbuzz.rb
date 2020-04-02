@@ -1,5 +1,4 @@
 class Integer
-
   def fizzbuzz
     if self <= 100 && self >= 1
       if self % 3 == 0 && self % 5 == 0
